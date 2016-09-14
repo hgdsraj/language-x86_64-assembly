@@ -3,6 +3,8 @@ fileTypes: [
   "nasm"
   "yasm"
   "inc"
+  "s"
+  "asb"
 ]
 name: "x86 and x86_64 Assembly"
 patterns: [
